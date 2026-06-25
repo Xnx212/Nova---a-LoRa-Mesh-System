@@ -1,0 +1,16 @@
+../Core/Src/main.c:109:6:E22_Set_Mode	7
+../Core/Src/main.c:135:6:E22_Wait_AUX_High	3
+../Core/Src/main.c:147:6:E22_Configure	7
+../Core/Src/main.c:255:7:Read_Battery_Voltage	2
+../Core/Src/main.c:273:6:Compute_MAC	2
+../Core/Src/main.c:288:6:Encrypt_Packet	2
+../Core/Src/main.c:298:6:Send_LoRa_Packet	4
+../Core/Src/main.c:360:6:Enter_Stop_Mode	1
+../Core/Src/main.c:383:6:TR_Init	2
+../Core/Src/main.c:424:6:TR_Main_Cycle	1
+../Core/Src/main.c:437:5:main	4
+../Core/Src/main.c:500:6:SystemClock_Config	4
+../Core/Src/main.c:549:13:MX_ADC_Init	3
+../Core/Src/main.c:605:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:637:13:MX_GPIO_Init	1
+../Core/Src/main.c:690:6:Error_Handler	1
